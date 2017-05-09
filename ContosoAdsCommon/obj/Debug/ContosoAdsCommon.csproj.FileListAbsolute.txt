@@ -1,0 +1,10 @@
+C:\Share\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.dll.config
+C:\Share\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.dll
+C:\Share\C#\ContosoAdsCommon\bin\Debug\ContosoAdsCommon.pdb
+C:\Share\C#\ContosoAdsCommon\bin\Debug\EntityFramework.dll
+C:\Share\C#\ContosoAdsCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Share\C#\ContosoAdsCommon\bin\Debug\EntityFramework.xml
+C:\Share\C#\ContosoAdsCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Share\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.csprojResolveAssemblyReference.cache
+C:\Share\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.dll
+C:\Share\C#\ContosoAdsCommon\obj\Debug\ContosoAdsCommon.pdb

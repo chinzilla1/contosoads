@@ -1,0 +1,9 @@
+C:\Share\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll.config
+C:\Share\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll
+C:\Share\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.pdb
+C:\Share\C#\ContosoAdsCommon\bin\Release\EntityFramework.dll
+C:\Share\C#\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.dll
+C:\Share\C#\ContosoAdsCommon\bin\Release\EntityFramework.xml
+C:\Share\C#\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.xml
+C:\Share\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.dll
+C:\Share\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.pdb
